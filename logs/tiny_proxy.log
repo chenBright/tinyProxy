@@ -1,0 +1,10 @@
+2019/10/16 19:42:23 log.go:23: success create log file:  logs/tiny_proxy.log
+2019/10/16 19:42:23 config.go:34: success locad config file:  /Users/chenbright/go/src/github.com/chenBright/tinyProxy/config_file/default.json
+2019/10/16 19:42:23 server.go:49: tiny proxy server start ok
+2019/10/16 19:42:29 server.go:62: client connect server error:  accept tcp 127.0.0.1:8888: use of closed network connection
+2019/10/16 19:42:29 server.go:88: tiny proxy server stop
+2019/10/16 19:43:06 log.go:23: success create log file:  logs/tiny_proxy.log
+2019/10/16 19:43:06 config.go:34: success locad config file:  /Users/chenbright/go/src/github.com/chenBright/tinyProxy/config_file/default.json
+2019/10/16 19:43:06 server.go:49: tiny proxy server start ok
+2019/10/16 19:43:11 server.go:62: client connect server error:  accept tcp 127.0.0.1:8888: use of closed network connection
+2019/10/16 19:43:11 server.go:88: tiny proxy server stop

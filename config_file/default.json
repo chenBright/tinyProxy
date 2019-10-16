@@ -1,0 +1,15 @@
+{
+  "service": "ubuntu",
+  "host": "127.0.0.1",
+  "port": 8888,
+  "webport": 8880,
+  "strategy": "poll",
+  "heartbeat": 60,
+  "maxprocessor": 1,
+  "backends": [
+    {
+      "host": "123.207.60.196",
+      "port": 11111
+    }
+  ]
+}
